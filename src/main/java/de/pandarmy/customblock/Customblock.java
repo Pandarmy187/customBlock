@@ -17,7 +17,7 @@ import net.minecraft.util.Identifier;
 import java.util.function.Function;
 
 public class Customblock implements ModInitializer {
-
+    //very import comment
     public static final String MOD_ID = "tinmod";
 
     public static final Block TIN_ORE = registerBlock("tin_ore", settings -> new Block(settings.strength(3.0f).sounds(BlockSoundGroup.STONE).requiresTool()));
