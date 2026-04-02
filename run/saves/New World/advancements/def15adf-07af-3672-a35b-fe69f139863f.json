@@ -1,0 +1,33 @@
+{
+  "tinmod:smelt_tin": {
+    "criteria": {
+      "get_item": "2026-04-01 17:54:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-04-01 17:54:21 +0200"
+    },
+    "done": true
+  },
+  "tinmod:get_tin": {
+    "criteria": {
+      "get_item": "2026-04-01 17:54:39 +0200"
+    },
+    "done": true
+  },
+  "tinmod:root": {
+    "criteria": {
+      "tick": "2026-04-01 17:54:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-04-01 17:54:21 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,78 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 2,
+      "minecraft:stray": 1,
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:sheep": 5,
+      "minecraft:squid": 1,
+      "minecraft:spider": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 24000,
+      "minecraft:walk_one_cm": 9297,
+      "minecraft:walk_under_water_one_cm": 148,
+      "minecraft:mob_kills": 14,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 24000,
+      "minecraft:damage_dealt": 2203,
+      "minecraft:jump": 294,
+      "minecraft:time_since_death": 24000,
+      "minecraft:drop": 12,
+      "minecraft:bell_ring": 63,
+      "minecraft:sprint_one_cm": 19712,
+      "minecraft:fall_one_cm": 1782,
+      "minecraft:total_world_time": 24134,
+      "minecraft:swim_one_cm": 446,
+      "minecraft:fly_one_cm": 86725,
+      "minecraft:walk_on_water_one_cm": 533,
+      "minecraft:crouch_one_cm": 1090,
+      "minecraft:sneak_time": 227
+    },
+    "minecraft:dropped": {
+      "minecraft:rotten_flesh": 1,
+      "minecraft:arrow": 1,
+      "tinmod:raw_tin": 1,
+      "tinmod:crucible_furnace": 1,
+      "tinmod:tin_ingot": 1,
+      "minecraft:leaf_litter": 4,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:string": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:bone": 2,
+      "minecraft:black_wool": 1,
+      "minecraft:ink_sac": 2
+    },
+    "minecraft:used": {
+      "minecraft:sweet_berries": 1,
+      "minecraft:leaf_litter": 3,
+      "tinmod:crucible_furnace": 2,
+      "minecraft:netherite_sword": 27,
+      "minecraft:bell": 1,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:white_wool": 45
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "tinmod:crucible_furnace": 1,
+      "minecraft:leaf_litter": 2,
+      "minecraft:sweet_berry_bush": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:ink_sac": 2,
+      "minecraft:sweet_berries": 11,
+      "minecraft:leaf_litter": 7,
+      "minecraft:string": 1,
+      "minecraft:white_wool": 2,
+      "tinmod:crucible_furnace": 1,
+      "minecraft:black_wool": 1,
+      "minecraft:mutton": 2,
+      "minecraft:bone": 2,
+      "minecraft:arrow": 1,
+      "minecraft:rotten_flesh": 1
+    }
+  },
+  "DataVersion": 4671
+}

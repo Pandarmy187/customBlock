@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 3,
+      "minecraft:wooden_pickaxe": 1,
+      "tinmod:tin_ingot": 1,
+      "minecraft:copper_ingot": 1,
+      "tinmod:tin_ore": 1,
+      "tinmod:raw_tin": 5
+    },
+    "minecraft:dropped": {
+      "tinmod:tin_ore": 1,
+      "tinmod:raw_tin": 1,
+      "minecraft:copper_ingot": 1,
+      "tinmod:tin_ingot": 1,
+      "minecraft:leaf_litter": 3,
+      "minecraft:iron_pickaxe": 4,
+      "minecraft:wooden_pickaxe": 2
+    },
+    "minecraft:crafted": {
+      "tinmod:tin_ingot": 2
+    },
+    "minecraft:used": {
+      "tinmod:crucible_furnace": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:iron_pickaxe": 4,
+      "minecraft:furnace": 1,
+      "minecraft:blast_furnace": 1,
+      "tinmod:tin_ore": 4
+    },
+    "minecraft:mined": {
+      "tinmod:tin_ore": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6025,
+      "minecraft:walk_one_cm": 5764,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 30,
+      "minecraft:play_time": 6025,
+      "minecraft:jump": 11,
+      "minecraft:time_since_death": 6025,
+      "minecraft:drop": 13,
+      "minecraft:interact_with_furnace": 5,
+      "minecraft:sprint_one_cm": 1336,
+      "minecraft:fall_one_cm": 1375,
+      "minecraft:total_world_time": 6176,
+      "minecraft:fly_one_cm": 11348,
+      "minecraft:walk_on_water_one_cm": 217,
+      "minecraft:crouch_one_cm": 469,
+      "minecraft:sneak_time": 475,
+      "minecraft:interact_with_blast_furnace": 2
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "tinmod:tin_ingot": 1
+    },
+    "minecraft:crafted": {
+      "tinmod:tin_ingot": 1,
+      "minecraft:air": 0
+    },
+    "minecraft:used": {
+      "minecraft:sand": 1,
+      "minecraft:furnace": 1,
+      "minecraft:coal_ore": 6,
+      "tinmod:tin_ore": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6000,
+      "minecraft:walk_one_cm": 3017,
+      "minecraft:play_time": 6000,
+      "minecraft:jump": 63,
+      "minecraft:time_since_death": 6000,
+      "minecraft:drop": 3,
+      "minecraft:interact_with_furnace": 2,
+      "minecraft:sprint_one_cm": 1662,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:total_world_time": 7242,
+      "minecraft:fly_one_cm": 6794,
+      "minecraft:crouch_one_cm": 250,
+      "minecraft:sneak_time": 191,
+      "minecraft:climb_one_cm": 37
+    },
+    "minecraft:dropped": {
+      "minecraft:raw_iron": 1,
+      "tinmod:raw_tin": 1,
+      "tinmod:tin_ingot": 1
+    }
+  },
+  "DataVersion": 4671
+}

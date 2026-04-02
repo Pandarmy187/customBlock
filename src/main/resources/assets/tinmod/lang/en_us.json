@@ -1,0 +1,12 @@
+{
+  "block.tinmod.tin_ore": "Tin Ore",
+  "item.tinmod.raw_tin": "Raw Tin",
+  "item.tinmod.tin_ingot": "Tin Ingot",
+  "block.tinmod.crucible_furnace": "Crucible Furnace",
+  "advancements.tinmod.root.title": "Tin Mod",
+  "advancements.tinmod.root.description": "Get them all!",
+  "advancements.tinmod.get_tin.title": "Mine Tin Ore",
+  "advancements.tinmod.get_tin.description": "Mine tin ore with your lovely pickaxe",
+  "advancements.tinmod.smelt_tin.title": "Tin Smelter",
+  "advancements.tinmod.smelt_tin.description": "Smelt raw tin into a tin ingot"
+}

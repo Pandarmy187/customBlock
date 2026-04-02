@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down":    "tinmod:block/crucible_furnace_bottom",
+    "up":      "tinmod:block/crucible_furnace_top",
+    "north":   "tinmod:block/crucible_furnace_front",
+    "south":   "tinmod:block/crucible_furnace_side",
+    "east":    "tinmod:block/crucible_furnace_side",
+    "west":    "tinmod:block/crucible_furnace_side",
+    "particle": "tinmod:block/crucible_furnace_side"
+  }
+}

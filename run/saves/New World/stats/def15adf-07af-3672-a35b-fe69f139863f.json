@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "tinmod:raw_tin": 1,
+      "tinmod:tin_ingot": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 263,
+      "minecraft:time_since_rest": 7441,
+      "minecraft:walk_one_cm": 44,
+      "minecraft:total_world_time": 7441,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 424,
+      "minecraft:play_time": 7441,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 7441,
+      "minecraft:drop": 2
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "customblock",
+  "version": "${version}",
+  "name": "customBlock",
+  "description": "Fancy blocks lol",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/tinmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "de.pandarmy.customblock.client.CustomblockDataGenerator"
+    ],
+    "client": [
+      "de.pandarmy.customblock.client.CustomblockClient"
+    ],
+    "main": [
+      "de.pandarmy.customblock.Customblock"
+    ]
+  },
+  "mixins": [
+    "customblock.mixins.json",
+    {
+      "config": "customblock.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

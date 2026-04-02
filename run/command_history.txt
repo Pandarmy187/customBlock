@@ -1,0 +1,25 @@
+/time set day
+/enchant Player24 minecraft:silk_touch
+/enchant Player793 minecraft:silk_touch
+/give Player362 tinmod:tin_ore 64
+/enchant Player362 minecraft:silk_touch
+/effect give Player648 minecraft:night_vision infinite 255 true
+/setblock ~ ~ ~ tinmod:tin_ore
+/enchant Player21 minecraft:silk_touch
+/enchant Player21 minecraft:fortune 3
+/time set day
+/enchant Player442 minecraft:silk_touch
+/enchant Player442 minecraft:fortune 3
+/effect give Player881 minecraft:night_vision infinite 255 true
+/fill -129 73 -352
+/fill -129 73 -352 -144 -63 -337 air replace tinmod:tin_ore
+/fill -129 73 -352 -144 -50 -337 air replace tinmod:tin_ore
+/effect give Player881 minecraft:night_vision infinite 25 true
+/give Player881 minecraft:golden_apple
+/effect give Player120 minecraft:night_vision infinite 255 true
+/give Player892 tinmod:raw_tin
+/give Player298 minecraft:iron_ingot
+/give Player679 iron_ingot
+/enchant Player744 minecraft:silk_touch
+/enchant Player744 minecraft:fortune 3
+/effect give Player744 minecraft:night_vision infinite 255

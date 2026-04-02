@@ -1,0 +1,37 @@
+{
+  "parent": "tinmod:get_tin",
+  "display": {
+    "icon": {
+      "id": "tinmod:tin_ingot"
+    },
+    "title": {
+      "translate": "advancements.tinmod.smelt_tin.title"
+    },
+    "description": {
+      "translate": "advancements.tinmod.smelt_tin.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tinmod:tin_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

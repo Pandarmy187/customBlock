@@ -1,0 +1,37 @@
+{
+  "parent": "tinmod:root",
+  "display": {
+    "icon": {
+      "id": "tinmod:raw_tin"
+    },
+    "title": {
+      "translate": "advancements.tinmod.get_tin.title"
+    },
+    "description": {
+      "translate": "advancements.tinmod.get_tin.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tinmod:raw_tin"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

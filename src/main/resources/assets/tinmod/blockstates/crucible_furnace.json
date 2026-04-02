@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tinmod:block/crucible_furnace" },
+    "facing=south": { "model": "tinmod:block/crucible_furnace", "y": 180 },
+    "facing=east":  { "model": "tinmod:block/crucible_furnace", "y": 90 },
+    "facing=west":  { "model": "tinmod:block/crucible_furnace", "y": 270 }
+  }
+}

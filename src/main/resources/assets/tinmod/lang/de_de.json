@@ -1,0 +1,12 @@
+{
+  "block.tinmod.tin_ore": "Zinnerz",
+  "item.tinmod.raw_tin": "Rohzinn",
+  "item.tinmod.tin_ingot": "Zinnbarren",
+  "block.tinmod.crucible_furnace": "Tiegelofen",
+  "advancements.tinmod.root.title": "Zinn Mod",
+  "advancements.tinmod.root.description": "Sammle sie alle!",
+  "advancements.tinmod.get_tin.title": "Zinnerz abbauen",
+  "advancements.tinmod.get_tin.description": "Baue Zinnerz mit deiner Spitzhacke ab",
+  "advancements.tinmod.smelt_tin.title": "Zinnschmelzer",
+  "advancements.tinmod.smelt_tin.description": "Schmelze rohes Zinn zu einem Zinnbarren"
+}

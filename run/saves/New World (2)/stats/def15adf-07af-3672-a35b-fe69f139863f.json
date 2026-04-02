@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "tinmod:crucible_furnace": 4,
+      "minecraft:iron_pickaxe": 3,
+      "minecraft:stone_pickaxe": 1
+    },
+    "minecraft:mined": {
+      "tinmod:crucible_furnace": 3
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2525,
+      "minecraft:time_since_rest": 2416,
+      "minecraft:walk_one_cm": 942,
+      "minecraft:total_world_time": 2416,
+      "minecraft:fly_one_cm": 4931,
+      "minecraft:sneak_time": 1,
+      "minecraft:play_time": 2416,
+      "minecraft:jump": 54,
+      "minecraft:time_since_death": 2416
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "tinmod:tin_ore",
+  "result": {
+    "id": "tinmod:tin_ore"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}
