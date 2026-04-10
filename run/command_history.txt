@@ -23,3 +23,4 @@
 /enchant Player744 minecraft:silk_touch
 /enchant Player744 minecraft:fortune 3
 /effect give Player744 minecraft:night_vision infinite 255
+/ping

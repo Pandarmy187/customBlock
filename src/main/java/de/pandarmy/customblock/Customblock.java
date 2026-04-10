@@ -1,6 +1,8 @@
 package de.pandarmy.customblock;
 
+import de.pandarmy.customblock.commands.PingCommand;
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
@@ -49,6 +51,11 @@ public class Customblock implements ModInitializer {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(RAW_TIN);
             entries.add(TIN_INGOT);
+        });
+
+        //Commands
+        CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> {
+            PingCommand.register(dispatcher);
         });
 
     }
